@@ -1,0 +1,11 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Sensitive variable files
+terraform.tfvars
+
+# OS files
+.DS_Store
+Thumbs.db
